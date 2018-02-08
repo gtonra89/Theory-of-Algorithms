@@ -15,11 +15,11 @@ basic numerical operators (+, -, *, /, modulo). Other basic functions may be all
 but please confirm their use with the lecturer
 
 ## Problem 2
-2. Write, from scratch, a function in Racket that takes a positive integer n 0 as input
+2.Write, from scratch, a function in Racket that takes a positive integer n 0 as input
 and returns a list by recursively applying the following operation, starting with the
 input number.
 
-3n i + 1 if n i is odd n i+1 = n i ÷ 2 otherwise
+<img src="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%202/Selection_001.png" width="450" height="200"/>
 
 End the recursion when (or if) the number becomes 1. Call the function collatz-list.
 
