@@ -15,7 +15,7 @@ basic numerical operators (+, -, *, /, modulo). Other basic functions may be all
 but please confirm their use with the lecturer
 
 ## Problem 2
-2.Write, from scratch, a function in Racket that takes a positive integer n 0 as input
+2. Write, from scratch, a function in Racket that takes a positive integer n 0 as input
 and returns a list by recursively applying the following operation, starting with the
 input number.
 
@@ -27,9 +27,14 @@ So, collatz-list should return a list whose first element is n 0 , the second el
 
 is n 1 , and so on. For example:
 > (collatz-list 5)
+
 '(5 16 8 4 2 1)
+
 > (collatz-list 9)
+
 '(9 28 14 7 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1)
+
 > (collatz-list 2)
+
 '(2 1)
 
