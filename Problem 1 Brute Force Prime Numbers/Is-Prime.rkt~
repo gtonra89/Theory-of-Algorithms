@@ -8,7 +8,7 @@
    ; check to see if it is dividable
       (= 0 (remainder n x))))) 
      
-; range to 100
+; range to 10 
 (for [(a (in-range range 100))]
   (display "\n")
   (display a)
