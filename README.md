@@ -15,12 +15,12 @@ basic numerical operators (+, -, *, /, modulo). Other basic functions may be all
 but please confirm their use with the lecturer
 
 
-# Problem 1 Code & Docs
+### Problem 1 Code & Docs
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%201%20Brute%20Force%20Prime%20Numbers" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
 <br><br>
-# Problem 2 Code & Docs 
+### Problem 2 Code & Docs 
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%202" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
 <br><br>
-# Problem 3 Code & Docs
+### Problem 3 Code & Docs
 <br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%203" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
