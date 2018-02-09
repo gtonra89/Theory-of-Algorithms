@@ -17,8 +17,8 @@ DrRacket is available for Windows (95 and up), Mac OS X, Unix, and Linux with th
 To run the labs or problems sheets copy my repositry<br>
 download the DrRackket IDE from the link below<br>
 
-https://download.racket-lang.org/
-After you installed follow these steps<>br
+https://download.racket-lang.org/<br>
+After you installed follow these steps<br>
 
 Down on bottom of IDE select Language i am using RACKET.<br>
 than open file where you downloaded the repo to .<br>
