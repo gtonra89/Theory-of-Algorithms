@@ -15,5 +15,10 @@ basic numerical operators (+, -, *, /, modulo). Other basic functions may be all
 but please confirm their use with the lecturer
 
 ## Problem 6
-
+Write a function hamming-distance in Racket that takes two lists and returns the
+number of positions in which they differ. For example:
+```
+> (hamming-distance (list 1 0 1 0 1 1 1 0) (list 1 1 1 1 0 0 0 0))
+5
+```
 
