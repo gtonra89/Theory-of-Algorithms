@@ -39,7 +39,21 @@ but please confirm their use with the lecturer
 
 ### Problem 2 Code & Docs
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%202" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
-
 <br><br>
+
+
 ### Problem 3 Code & Docs
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%203" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<br><br>
+
+### Problem 4 Code & Docs
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%204" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<br><br>
+
+### Problem 5 Code & Docs
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%205" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<br><br>
+
+### Problem 6 Code & Docs
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%206" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<br><br>
