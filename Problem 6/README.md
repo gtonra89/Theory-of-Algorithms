@@ -14,6 +14,6 @@ means using only cons, car, cdr, define, lambda, if, null, null?, cond, = and th
 basic numerical operators (+, -, *, /, modulo). Other basic functions may be allowed,
 but please confirm their use with the lecturer
 
-## Problem 4
+## Problem 6
 
 
