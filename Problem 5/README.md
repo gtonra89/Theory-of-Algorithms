@@ -15,5 +15,9 @@ basic numerical operators (+, -, *, /, modulo). Other basic functions may be all
 but please confirm their use with the lecturer
 
 ## Problem 5
-
-
+Write a function hamming-weight in Racket that takes a list l as input and returns
+the number of non-zero elements in it. For example:
+```
+> (hamming-weight (list 1 0 1 0 1 1 1 0))
+5
+```
