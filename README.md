@@ -40,64 +40,48 @@ but please confirm their use with the lecturer
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%201.rkt" >Problem 1 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%201%20README.md" >Problem 1 Code</a><br>
 <br><br>
-<img src="" width="100" height="100">
 
 ### Problem 2 Code & Docs
-<img src="" width="100" height="100">
-
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%202.rkt" >Problem 2 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%202%20README.md" >Problem 2 Code</a><br>
 <br><br>
 
 ### Problem 3 Code & Docs
-<img src="" width="100" height="100">
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%203.rkt" >Problem 3 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%203%20README.md" >Problem 3 Code</a><br>
 <br><br>
 
 ### Problem 4 Code & Docs
-<img src="" width="100" height="100">
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%204.rkt" >Problem 4 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%204%20README.md" >Problem 4 Code</a><br>
 <br><br>
 
 ### Problem 5 Code & Docs
-<img src="" width="100" height="100">
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%205.rkt" >Problem 5 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%205%20README.md" >Problem 5 Code</a><br>
 <br><br>
 
 ### Problem 6 Code & Docs
-<img src="" width="100" height="100">
-
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%206.rkt" >Problem 6 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%206%20README.md" >Problem 6 Code</a><br>
 <br><br>
 
 ### Problem 7 Code & Docs
-<img src="" width="100" height="100">
-
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%207.rkt" >Problem 7 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%207%20README.md" >Problem 7 Code</a><br>
 <br><br>
 
 ### Problem 8 Code & Docs
-<img src="" width="100" height="100">
-
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%208.rkt" >Problem 8 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%208%20README.md" >Problem 8 Code</a><br>
 <br><br>
 
 ### Problem 9 Code & Docs
-<img src="" width="100" height="100">
-
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%209.rkt" >Problem 9 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%209%20README.md" >Problem 9 Code</a><br>
 <br><br>
 
 ### Problem 10 Code & Docs
-<img src="" width="100" height="100">
-
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%2010.rkt" >Problem 10 ReadMe</a><br>
 <a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%2010%20README.md" >Problem 10 Code</a><br>
 <br><br>
