@@ -16,13 +16,16 @@ DrRacket is available for Windows (95 and up), Mac OS X, Unix, and Linux with th
 ## How to Run
 To run the labs or problems sheets copy my repositry<br>
 download the DrRackket IDE from the link below<br>
-
 https://download.racket-lang.org/<br>
+
 After you installed follow these steps<br>
 
-Down on bottom of IDE select Language i am using RACKET.<br>
-than open file where you downloaded the repo to .<br>
-Run the project<br>
+1. Clone this Repositry down and unzip the folder.<br>
+2. Launch Dr Racket.<br> 
+3. Down on the bottom of IDE select Language i am using RACKET eg rkt files.<br>
+4. from the DR Racket Menu click "file then open" - proceed to the file location of the unzipped folder and choose which .rkt file you would like to Run
+5. The file will load into Dr Racket IDE and you simply click on the run button in the Dr Racket IDE 
+
 
 ## Instructions
 The following exercises should be completed in the Racket programming language [1].
@@ -34,26 +37,67 @@ but please confirm their use with the lecturer
 
 
 ### Problem 1 Code & Docs
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%201%20Brute%20Force%20Prime%20Numbers" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%201.rkt" >Problem 1 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%201%20README.md" >Problem 1 Code</a><br>
 <br><br>
+<img src="" width="100" height="100">
 
 ### Problem 2 Code & Docs
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%202" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<img src="" width="100" height="100">
+
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%202.rkt" >Problem 2 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%202%20README.md" >Problem 2 Code</a><br>
 <br><br>
 
-
 ### Problem 3 Code & Docs
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%203" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<img src="" width="100" height="100">
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%203.rkt" >Problem 3 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%203%20README.md" >Problem 3 Code</a><br>
 <br><br>
 
 ### Problem 4 Code & Docs
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%204" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<img src="" width="100" height="100">
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%204.rkt" >Problem 4 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%204%20README.md" >Problem 4 Code</a><br>
 <br><br>
 
 ### Problem 5 Code & Docs
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%205" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<img src="" width="100" height="100">
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%205.rkt" >Problem 5 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%205%20README.md" >Problem 5 Code</a><br>
 <br><br>
 
 ### Problem 6 Code & Docs
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/tree/master/Problem%206" ><img src="http://www.pvhc.net/img212/luiaoazsafytcqkzjxem.jpg" width="128" height="128"></a>
+<img src="" width="100" height="100">
+
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%206.rkt" >Problem 6 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%206%20README.md" >Problem 6 Code</a><br>
+<br><br>
+
+### Problem 7 Code & Docs
+<img src="" width="100" height="100">
+
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%207.rkt" >Problem 7 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%207%20README.md" >Problem 7 Code</a><br>
+<br><br>
+
+### Problem 8 Code & Docs
+<img src="" width="100" height="100">
+
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%208.rkt" >Problem 8 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%208%20README.md" >Problem 8 Code</a><br>
+<br><br>
+
+### Problem 9 Code & Docs
+<img src="" width="100" height="100">
+
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%209.rkt" >Problem 9 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%209%20README.md" >Problem 9 Code</a><br>
+<br><br>
+
+### Problem 10 Code & Docs
+<img src="" width="100" height="100">
+
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%2010.rkt" >Problem 10 ReadMe</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%2010%20README.md" >Problem 10 Code</a><br>
 <br><br>
