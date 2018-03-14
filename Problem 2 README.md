@@ -19,7 +19,7 @@ but please confirm their use with the lecturer
 and returns a list by recursively applying the following operation, starting with the
 input number.
 
-<img src="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%202/Selection_001.png" width="450" height="200"/>
+<img src="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Selection_001.png"/>
 
 End the recursion when (or if) the number becomes 1. Call the function collatz-list.
 
