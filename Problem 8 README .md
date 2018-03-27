@@ -45,4 +45,7 @@ the positions where x is 1 and the elements of z otherwise. For example:
 ;Testing function
 (displayln '(chse results on (list 0 0 0 0 1 1 1 1) (list 0 0 1 1 0 0 1 1) (list 0 1 0 1 0 1 0 1)))
 (chse (list 0 0 0 0 1 1 1 1) (list 0 0 1 1 0 0 1 1) (list 0 1 0 1 0 1 0 1))
+
+;results for above 
+;'(0 1 0 1 0 0 1 1)
 ```
