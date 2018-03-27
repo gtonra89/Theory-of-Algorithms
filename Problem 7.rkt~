@@ -1,0 +1,16 @@
+#lang racket
+
+(define (maj x y z)
+    (if (null? x)
+      '()
+      (cond 
+        ((= (car x) (car y)) (cons (car x) (maj (cdr x) (cdr y) (cdr z))))
+        ((= (car x) (car z)) (cons (car x) (maj (cdr x) (cdr y) (cdr z))))
+        ;= otherwise 
+        (else (cons (car y) (maj (cdr x) (cdr y) (cdr z))))
+        )))
+
+(displayln '(MAJ results :))
+
+(maj (list 0 0 0 0 1 1 1 1) (list 0 0 1 1 0 0 1 1) (list 0 1 0 1 0 1 0 1))
+
