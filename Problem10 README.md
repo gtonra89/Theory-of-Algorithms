@@ -15,10 +15,12 @@ basic numerical operators (+, -, *, /, modulo). Other basic functions may be all
 but please confirm their use with the lecturer
 
 ## Problem 10
-Write a function sod2 in Racket that takes three lists x, y and z of equal length and
-containing only 0’s and 1’s. It should return a list containing a 1 where the number of
-1’s in a given position in x, y and z contains an odd nubmer of 1’s, and 0 otherwise.
-For example:
+Write a function lstq in Racket that takes as arguments two lists l and m of equal
+length and containing numbers. It should return d, the distance given by the sum of
+the square residuals between the numbers in the lists:
+
+This means take the i th element of m from the i th element of l and square the result
+for all i. Then add all of those to get d. For example:
 
 
 ```
