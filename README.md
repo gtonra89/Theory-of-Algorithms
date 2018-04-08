@@ -90,6 +90,6 @@ but please confirm their use with the lecturer
 <br><br>
 
 ### Problem 10 Code & Docs
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%2010.rkt" >Problem 10 Code</a><br>
-<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem%2010%20README.md" >Problem 10 Readme</a><br>
+<a href="" >Problem 10 Code</a><br>
+<a href="https://github.com/gtonra89/Theory-of-Algorithms/blob/master/Problem10%20README.md" >Problem 10 Readme</a><br>
 <br><br>
